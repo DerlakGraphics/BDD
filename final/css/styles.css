@@ -64,7 +64,7 @@ header h1 {
 }
 
 main {
-    border: 2px solid color #013440;
+    border: 2px solid #013440;
     padding: 10px 0;
 }
 
@@ -147,4 +147,4 @@ main {
     .col {
         width: 100%;
     }
- }
+}
